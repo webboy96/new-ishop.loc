@@ -1,0 +1,16 @@
+[2022-05-14 13:38:51] Текст ошибки: Возникла ошибочка | Файл: C:\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 9
+===========
+[2022-05-14 13:40:34] Текст ошибки: Возникла ошибочка | Файл: C:\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 9
+===========
+[2022-05-14 13:40:35] Текст ошибки: Возникла ошибочка | Файл: C:\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 9
+===========
+[2022-05-14 13:40:37] Текст ошибки: Возникла ошибочка | Файл: C:\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 9
+===========
+[2022-05-14 13:40:37] Текст ошибки: Возникла ошибочка | Файл: C:\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 9
+===========
+[2022-05-14 18:25:51] Текст ошибки: Undefined variable $test | Файл: C:\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 11
+===========
+[2022-05-14 19:03:35] Текст ошибки: Undefined variable $test | Файл: C:\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 11
+===========
+[2022-05-14 19:03:35] Текст ошибки: Failed opening required 'C:\OpenServer\domains\new-ishop.loc/publicerrors/production.php' (include_path='.') | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\ErrorHandler.php | Строка: 78
+===========
