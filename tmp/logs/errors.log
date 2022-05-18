@@ -14,3 +14,9 @@
 ===========
 [2022-05-14 19:03:35] Текст ошибки: Failed opening required 'C:\OpenServer\domains\new-ishop.loc/publicerrors/production.php' (include_path='.') | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\ErrorHandler.php | Строка: 78
 ===========
+[2022-05-18 08:47:34] Текст ошибки: Class "wfm\Router" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\App.php | Строка: 17
+===========
+[2022-05-18 08:52:16] Текст ошибки: Undefined variable $test | Файл: C:\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 13
+===========
+[2022-05-18 09:03:51] Текст ошибки: Class "Router" not found | Файл: C:\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 13
+===========
