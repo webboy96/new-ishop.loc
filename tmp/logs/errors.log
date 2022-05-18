@@ -44,3 +44,7 @@
 ===========
 [2022-05-18 13:58:38] Текст ошибки: Контроллер app\controllers\admin\PageController не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 45
 ===========
+[2022-05-18 15:48:05] Текст ошибки: Контроллер app\controllers\admin\PageController не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 46
+===========
+[2022-05-18 15:48:29] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 51
+===========
