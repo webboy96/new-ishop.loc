@@ -20,3 +20,5 @@
 ===========
 [2022-05-18 09:03:51] Текст ошибки: Class "Router" not found | Файл: C:\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 13
 ===========
+[2022-05-18 12:29:44] Текст ошибки: Undefined variable $k | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 43
+===========
