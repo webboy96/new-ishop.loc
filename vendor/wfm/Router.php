@@ -26,11 +26,28 @@ class Router
     {
         if (self::matchRoute($url))
         {
-            echo 'OK';
+            $controller = 'app\controllers\\' . self::$route['admin_prefix'] . self::$route['controller'] . 'Controller';
+            if (class_exists($controller))
+            {
+                $controllerObject = new $controller(self::$route);
+                $action = self::lowerCamelCase(self::$route['action'] . 'Action');
+                if (method_exists($controllerObject, $action))
+                {
+                    $controllerObject->$action();
+                }
+                else
+                {
+                    throw new \Exception("Метод {$controller}::{$action} не найден", 404);
+                }
+            }
+            else
+            {
+                throw new \Exception("Контроллер {$controller} не найден", 404);
+            }
         }
         else
         {
-            echo 'NO';
+            throw new \Exception("Страница не найдена", 404);
         }
     }
     public static function matchRoute($url): bool
@@ -39,7 +56,6 @@ class Router
         {
             if (preg_match("#{$pattern}#", $url, $matches))
             {
-                debug($matches);
                 foreach ($matches as $k => $v)
                 {
                     if (is_string($k))
@@ -59,11 +75,11 @@ class Router
                 }
                 else
                 {
-                    $route['admin_prefix'] = '\\';
+                    $route['admin_prefix'] .= '\\';
                 }
                 $route['controller'] = self::upperCamelCase($route['controller']);
                 //$route['action'] = self::lowerCamelCase($route['action']);
-                debug($route);
+                self::$route = $route;
                 return true;
             }
 
