@@ -52,6 +52,7 @@ class Router
                 if (method_exists($controllerObject, $action))
                 {
                     $controllerObject->$action();
+                    $controllerObject->getView();
                 }
                 else
                 {

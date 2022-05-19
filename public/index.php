@@ -10,4 +10,3 @@ require_once CONFIG . '/routes.php';
 new \wfm\App();
 //throw new Exception('Возникла ошибочка');
 //var_dump(\wfm\App::$app->getProperties());
-debug(\wfm\Router::getRoutes());

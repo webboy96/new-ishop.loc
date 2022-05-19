@@ -52,3 +52,51 @@
 ===========
 [2022-05-19 13:36:00] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 11
 ===========
+[2022-05-19 14:07:14] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 11
+===========
+[2022-05-19 14:07:57] Текст ошибки: Call to undefined function wfm\render() | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Controller.php | Строка: 36
+===========
+[2022-05-19 14:10:20] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 50
+===========
+[2022-05-19 14:14:46] Текст ошибки: syntax error, unexpected identifier "var_dump", expecting "function" or "const" | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 9
+===========
+[2022-05-19 14:15:14] Текст ошибки: Call to undefined method app\controllers\admin\MainController::render() | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\admin\MainController.php | Строка: 14
+===========
+[2022-05-19 14:17:31] Текст ошибки: Undefined variable $prefix | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 31
+===========
+[2022-05-19 14:17:32] Текст ошибки: Undefined variable $prefix | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 31
+===========
+[2022-05-19 14:17:33] Текст ошибки: Undefined variable $prefix | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 31
+===========
+[2022-05-19 14:17:34] Текст ошибки: Undefined variable $prefix | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 31
+===========
+[2022-05-19 14:22:04] Текст ошибки: Контроллер app\controllers\admin\ViewController не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 64
+===========
+[2022-05-19 14:29:12] Текст ошибки: syntax error, unexpected token "}" | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 39
+===========
+[2022-05-19 14:29:27] Текст ошибки: Не найден вид C:\OpenServer\domains\new-ishop.loc/app/view/Main/index.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 38
+===========
+[2022-05-19 14:34:58] Текст ошибки: Не найден вид C:\OpenServer\domains\new-ishop.loc/app/view/Main/index.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 38
+===========
+[2022-05-19 14:35:00] Текст ошибки: Не найден вид C:\OpenServer\domains\new-ishop.loc/app/view/Main/index.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 38
+===========
+[2022-05-19 14:35:48] Текст ошибки: Не найден вид C:\OpenServer\domains\new-ishop.loc/app/view/Main/index.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 38
+===========
+[2022-05-19 14:37:23] Текст ошибки: Не найден вид C:\OpenServer\domains\new-ishop.loc/app/view/Main/index.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 38
+===========
+[2022-05-19 14:37:25] Текст ошибки: Не найден вид C:\OpenServer\domains\new-ishop.loc/app/view/Main/index.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 38
+===========
+[2022-05-19 14:52:29] Текст ошибки: require_once(C:\OpenServer\domains\new-ishop.loc/app/views/layouts/ishop.php): Failed to open stream: No such file or directory | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 48
+===========
+[2022-05-19 14:52:51] Текст ошибки: Не найден вид: C:\OpenServer\domains\new-ishop.loc/app/views/layouts/ishop.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 52
+===========
+[2022-05-19 14:53:05] Текст ошибки: Не найден шаблон: C:\OpenServer\domains\new-ishop.loc/app/views/layouts/ishop.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 52
+===========
+[2022-05-19 14:54:00] Текст ошибки: Не найден шаблон: C:\OpenServer\domains\new-ishop.loc/app/views/layouts/test.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 52
+===========
+[2022-05-19 14:55:10] Текст ошибки: Не найден шаблон: C:\OpenServer\domains\new-ishop.loc/app/views/layouts/test2.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 52
+===========
+[2022-05-19 14:55:21] Текст ошибки: Type of app\controllers\MainController::$layout must be string|false (as in class wfm\Controller) | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 7
+===========
+[2022-05-19 14:57:18] Текст ошибки: Не найден шаблон: C:\OpenServer\domains\new-ishop.loc/app/views/layouts/test2.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 52
+===========

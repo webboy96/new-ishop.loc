@@ -6,8 +6,10 @@ use wfm\Controller;
 
 class MainController extends Controller
 {
+
+
     public function indexAction()
     {
-       var_dump($this->model);
+ //       $this->layout = 'test';
     }
 }
