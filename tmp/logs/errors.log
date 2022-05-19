@@ -48,3 +48,7 @@
 ===========
 [2022-05-18 15:48:29] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 51
 ===========
+[2022-05-19 13:29:36] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 11
+===========
+[2022-05-19 13:36:00] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 11
+===========
