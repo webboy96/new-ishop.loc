@@ -3,7 +3,7 @@
 use wfm\View;
 
 /** @var $this View */
-/** @var $test \app\controllers\MainController */
+
 ?>
 <!doctype html>
 <html lang="ru">
@@ -20,9 +20,7 @@ use wfm\View;
 // выводим все что между открывающим и закрывающим тегом
 $this->content;
 ?>
-<?=
-$test;
-?>
+
 
 
 </body>
