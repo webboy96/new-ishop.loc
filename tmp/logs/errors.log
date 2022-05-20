@@ -100,3 +100,5 @@
 ===========
 [2022-05-19 14:57:18] Текст ошибки: Не найден шаблон: C:\OpenServer\domains\new-ishop.loc/app/views/layouts/test2.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 52
 ===========
+[2022-05-20 08:13:43] Текст ошибки: syntax error, unexpected token ";", expecting ")" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\layouts\ishop.php | Строка: 18
+===========
