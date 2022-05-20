@@ -3,6 +3,7 @@
 use wfm\View;
 
 /** @var $this View */
+/** @var $test \app\controllers\MainController */
 ?>
 <!doctype html>
 <html lang="ru">
@@ -11,11 +12,17 @@ use wfm\View;
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Title</title>
+    <?= $this->getMeta() ?>
 </head>
 <body>
 
-<?php echo $this->content; ?>
+<?=
+// выводим все что между открывающим и закрывающим тегом
+$this->content;
+?>
+<?=
+$test;
+?>
 
 
 </body>

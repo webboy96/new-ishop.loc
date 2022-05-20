@@ -102,3 +102,7 @@
 ===========
 [2022-05-20 08:13:43] Текст ошибки: syntax error, unexpected token ";", expecting ")" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\layouts\ishop.php | Строка: 18
 ===========
+[2022-05-20 08:39:43] Текст ошибки: syntax error, unexpected token "public" | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 56
+===========
+[2022-05-20 08:46:16] Текст ошибки: syntax error, unexpected identifier "Главная", expecting ")" | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\MainController.php | Строка: 13
+===========
