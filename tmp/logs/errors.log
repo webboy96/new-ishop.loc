@@ -182,3 +182,13 @@
 ===========
 [2022-05-20 13:33:02] Текст ошибки: Cannot assign app\models\Main to property wfm\Controller::$model of type string | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Controller.php | Строка: 29
 ===========
+[2022-05-24 09:38:26] Текст ошибки: Undefined property: RedBeanPHP\Driver\RPDO::$getLogger | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 73
+===========
+[2022-05-24 09:38:26] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 69
+===========
+[2022-05-24 09:39:42] Текст ошибки: Undefined property: RedBeanPHP\Driver\RPDO::$getLogger | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 73
+===========
+[2022-05-24 10:05:32] Текст ошибки: syntax error, unexpected token ",", expecting ")" | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 92
+===========
+[2022-05-24 10:06:32] Текст ошибки: Файл: C:\OpenServer\domains\new-ishop.loc/app/views/parts/headers.php - не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 92
+===========
