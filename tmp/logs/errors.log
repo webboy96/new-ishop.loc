@@ -192,3 +192,13 @@
 ===========
 [2022-05-24 10:06:32] Текст ошибки: Файл: C:\OpenServer\domains\new-ishop.loc/app/views/parts/headers.php - не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 92
 ===========
+[2022-05-24 12:37:53] Текст ошибки: Файл: C:\OpenServer\domains\new-ishop.loc/app/views/parts/headers.php - не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 92
+===========
+[2022-05-24 12:38:52] Текст ошибки: Call to undefined function int() | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\layouts\ishop.php | Строка: 20
+===========
+[2022-05-24 12:39:05] Текст ошибки: Call to undefined function int() | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\layouts\ishop.php | Строка: 20
+===========
+[2022-05-24 12:39:40] Текст ошибки: Call to undefined function int() | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\layouts\ishop.php | Строка: 20
+===========
+[2022-05-24 12:41:39] Текст ошибки: Call to undefined function int() | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\layouts\ishop.php | Строка: 22
+===========
