@@ -14,7 +14,7 @@ class View
         public $route,
         public $layout = '',
         public $view = '',
-        public $meta = [],
+        public $meta = ['title' => '', 'keywords' => '', 'description' => ''],
     )
     {
         if (false !== $this->layout)
