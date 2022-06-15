@@ -81,3 +81,12 @@ function post($key, $type = 's')
     }
 }
 
+function __($key)
+{
+    echo \wfm\Language::get($key);
+}
+function ___($key)
+{
+    return \wfm\Language::get($key);
+}
+
