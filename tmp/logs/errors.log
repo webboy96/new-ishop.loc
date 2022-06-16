@@ -1346,3 +1346,27 @@
 ===========
 [2022-06-16 10:15:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
 ===========
+[2022-06-16 12:09:19] Текст ошибки: syntax error, unexpected token "{" | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Cart.php | Строка: 26
+===========
+[2022-06-16 12:09:34] Текст ошибки: syntax error, unexpected token "{" | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Cart.php | Строка: 26
+===========
+[2022-06-16 12:09:51] Текст ошибки: syntax error, unexpected token "{" | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Cart.php | Строка: 26
+===========
+[2022-06-16 12:13:11] Текст ошибки: syntax error, unexpected token "{" | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Cart.php | Строка: 26
+===========
+[2022-06-16 12:25:51] Текст ошибки: Undefined constant "S_SESSION" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Main\index.php | Строка: 38
+===========
+[2022-06-16 12:25:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-16 12:26:08] Текст ошибки: Undefined constant "S_SESSION" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Main\index.php | Строка: 38
+===========
+[2022-06-16 12:26:31] Текст ошибки: Cannot use temporary expression in write context | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Cart.php | Строка: 43
+===========
+[2022-06-16 12:30:43] Текст ошибки: Cannot use temporary expression in write context | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Cart.php | Строка: 43
+===========
+[2022-06-16 12:58:12] Текст ошибки: Cannot use temporary expression in write context | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Cart.php | Строка: 43
+===========
+[2022-06-16 12:59:29] Текст ошибки: Не найден вид C:\OpenServer\domains\new-ishop.loc/app/views/Cart/add.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 42
+===========
+[2022-06-16 13:00:31] Текст ошибки: Не найден вид C:\OpenServer\domains\new-ishop.loc/app/views/Cart/add.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 42
+===========
