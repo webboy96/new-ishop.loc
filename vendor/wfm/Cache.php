@@ -7,7 +7,7 @@ namespace wfm;
 class Cache
 {
 
-    use TSingelton;
+    use TSingleton;
     public function set($key, $data, $seconds = 3600): bool
     {
         $content['data'] = $data;

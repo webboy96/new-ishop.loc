@@ -57,4 +57,3 @@ use wfm\View;
 
     </div>
 </div>
-

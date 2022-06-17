@@ -1370,3 +1370,171 @@
 ===========
 [2022-06-16 13:00:31] Текст ошибки: Не найден вид C:\OpenServer\domains\new-ishop.loc/app/views/Cart/add.php | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 42
 ===========
+[2022-06-16 14:19:03] Текст ошибки: syntax error, unexpected token ")" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 14
+===========
+[2022-06-16 14:19:48] Текст ошибки: syntax error, unexpected token ")" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 14
+===========
+[2022-06-16 14:21:49] Текст ошибки: syntax error, unexpected token ")" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 14
+===========
+[2022-06-16 14:23:53] Текст ошибки: syntax error, unexpected token ")" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 14
+===========
+[2022-06-16 14:30:50] Текст ошибки: syntax error, unexpected token ")" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 14
+===========
+[2022-06-16 14:31:12] Текст ошибки: syntax error, unexpected token ")" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 14
+===========
+[2022-06-16 14:32:35] Текст ошибки: syntax error, unexpected token ")" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 14
+===========
+[2022-06-16 14:34:58] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 17
+===========
+[2022-06-17 08:35:06] Текст ошибки: Undefined array key "HTTP_REFERER" | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\LanguageController.php | Строка: 19
+===========
+[2022-06-17 08:35:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 09:33:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 09:33:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 09:33:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 09:33:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 09:33:53] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 09:40:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 09:40:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 09:40:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 09:40:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 09:40:11] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 09:41:10] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 17
+===========
+[2022-06-17 10:03:22] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 17
+===========
+[2022-06-17 10:04:10] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 17
+===========
+[2022-06-17 10:15:45] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 17
+===========
+[2022-06-17 10:16:29] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 67
+===========
+[2022-06-17 10:16:36] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 67
+===========
+[2022-06-17 10:17:20] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 17
+===========
+[2022-06-17 10:18:12] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 17
+===========
+[2022-06-17 10:19:10] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 17
+===========
+[2022-06-17 10:19:12] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 17
+===========
+[2022-06-17 10:20:19] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 17
+===========
+[2022-06-17 10:21:45] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:46] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:53] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:53] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:54] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:54] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:55] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:55] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:55] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:55] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:55] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:56] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:56] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:56] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:57] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:57] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:58] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:21:58] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:22:04] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:22:04] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:22:06] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:22:06] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:22:07] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:22:07] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:22:08] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:22:08] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:22:10] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:22:10] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:25:53] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:25:53] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:25:57] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:25:57] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:25:59] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:25:59] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:26:00] Текст ошибки: Trait "wfm\TSingleton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Registry.php | Строка: 7
+===========
+[2022-06-17 10:27:04] Текст ошибки: Trait "wfm\TSingelton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 9
+===========
+[2022-06-17 10:27:04] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 10:27:06] Текст ошибки: Trait "wfm\TSingelton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 9
+===========
+[2022-06-17 10:27:06] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 10:28:20] Текст ошибки: Trait "wfm\TSingelton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Cache.php | Строка: 7
+===========
+[2022-06-17 10:28:23] Текст ошибки: Trait "wfm\TSingelton" not found | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Cache.php | Строка: 7
+===========
+[2022-06-17 10:28:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 10:28:45] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 17
+===========
+[2022-06-17 10:34:08] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 17
+===========
+[2022-06-17 10:40:51] Текст ошибки: session_start(): Ignoring session_start() because a session is already active | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\CartController.php | Строка: 25
+===========
+[2022-06-17 10:42:18] Текст ошибки: Cannot access offset of type string on string | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Cart.php | Строка: 31
+===========
+[2022-06-17 10:44:29] Текст ошибки: Undefined variable $_SESSION | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\Main\index.php | Строка: 39
+===========
+[2022-06-17 10:44:30] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 10:49:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 10:49:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 10:49:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 10:49:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-17 10:49:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========

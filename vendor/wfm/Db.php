@@ -9,7 +9,7 @@ use RedBeanPHP\R;
 class Db
 {
 
-    use TSingelton;
+    use TSingleton;
 
     private function __construct()
     {

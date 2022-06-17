@@ -192,9 +192,9 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 /* Header top */
 
 /* Header bottom */
-.header-bottom 	{
+.header-bottom {
 	background-color: #fff;
-	box-shadow: 0 5px 5px -5px rgba(0, 0, 0, .5);
+	box-shadow: 0 5px 5px -5px rgba(0,0,0,.5);
 }
 
 .header-bottom .navbar-nav li a.nav-link {
@@ -227,7 +227,6 @@ li a.dropdown-item:focus, li a.dropdown-item:hover {
 	padding: 0;
 	position: relative;
 	top: -10px;
-
 }
 .my-carousel .carousel-item {
 	display: flex;

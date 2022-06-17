@@ -1,11 +1,13 @@
 <?php
 
 namespace app\widgets\language;
+
 use RedBeanPHP\R;
 use wfm\App;
 
 class Language
 {
+
     protected $tpl;
     protected $languages;
     protected $language;
@@ -27,21 +29,17 @@ class Language
     {
         return R::getAssoc("SELECT code, title, base, id FROM language ORDER BY base DESC");
     }
+
     public static function getLanguage($languages)
     {
         $lang = App::$app->getProperty('lang');
-        if ($lang && array_key_exists($lang, $languages))
-        {
+        if ($lang && array_key_exists($lang, $languages)) {
             $key = $lang;
-        }
-        elseif(!$lang)
-        {
+        } elseif (!$lang) {
             $key = key($languages);
-        }
-        else
-        {
+        } else {
             $lang = h($lang);
-            throw new \Exception("Не найден язык с кодировкой: {$lang}", 404);
+            throw new \Exception("Not found language {$lang}", 404);
         }
 
         $lang_info = $languages[$key];
@@ -55,4 +53,5 @@ class Language
         require_once $this->tpl;
         return ob_get_clean();
     }
+
 }

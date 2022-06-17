@@ -6,7 +6,8 @@ namespace wfm;
 
 class Registry
 {
-    use TSingelton;
+
+    use TSingleton;
 
     protected static array $properties = [];
 
@@ -14,7 +15,6 @@ class Registry
     {
         self::$properties[$name] = $value;
     }
-
 
     public function getProperty($name)
     {

@@ -4,7 +4,7 @@
 namespace wfm;
 
 
-trait TSingelton
+trait TSingleton
 {
 
     private static ?self $instance = null;
