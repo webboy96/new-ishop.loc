@@ -1538,3 +1538,57 @@
 ===========
 [2022-06-17 10:49:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
 ===========
+[2022-06-17 14:40:05] Текст ошибки: Метод app\controllers\CartController::deleteAction не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+===========
+[2022-06-17 14:44:33] Текст ошибки: Метод app\controllers\CartController::deleteAction не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+===========
+[2022-06-17 14:57:48] Текст ошибки: Метод app\controllers\CartController::deleteAction не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+===========
+[2022-06-17 14:57:48] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-20 09:56:22] Текст ошибки: Undefined constant "tpl_cart_title" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\footer.php | Строка: 58
+===========
+[2022-06-20 09:56:28] Текст ошибки: Undefined constant "tpl_cart_title" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\footer.php | Строка: 58
+===========
+[2022-06-20 09:56:46] Текст ошибки: Undefined constant "tpl_cart_title" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\footer.php | Строка: 58
+===========
+[2022-06-20 09:56:48] Текст ошибки: Undefined constant "tpl_cart_title" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\footer.php | Строка: 58
+===========
+[2022-06-20 09:56:57] Текст ошибки: Undefined constant "tpl_cart_title" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\footer.php | Строка: 58
+===========
+[2022-06-20 10:10:06] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:10:18] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:10:56] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:11:00] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:11:15] Текст ошибки: syntax error, unexpected token ":", expecting "," or ";" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:11:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-20 10:12:37] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:13:07] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:13:11] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:13:46] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:13:50] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:14:11] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:15:00] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:15:11] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:16:04] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:18:33] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:19:18] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
+[2022-06-20 10:26:40] Текст ошибки: Undefined array key "cart.qty" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\header.php | Строка: 46
+===========
