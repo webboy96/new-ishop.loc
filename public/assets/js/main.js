@@ -68,12 +68,14 @@ $(function() {
 		const qty = $('#input-quantity').val() ? $('#input-quantity').val() : 1;
 		const $this = $(this);
 
+
 		$.ajax({
 			url: 'cart/add',
 			type: 'GET',
 			data: {id: id, qty: qty},
 			success: function (res) {
 				showCart(res);
+				$this.find('i').removeClass('fa-shopping-cart').addClass('fa-luggage-cart');
 			},
 			error: function () {
 				alert('Error!');
