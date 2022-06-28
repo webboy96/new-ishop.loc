@@ -60,14 +60,6 @@ use wfm\View;
 
                 <?= $product['content']; ?>
             </ul>
-
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi quas esse at odio modi enim, libero, inventore veniam eveniet! Nesciunt incidunt perferendis earum cum minus assumenda fugit labore quidem rem.</p>
-            <p>Aliquam voluptatem, dignissimos eaque, cum adipisci esse fugit illo ea quae perspiciatis suscipit. Nesciunt aspernatur similique recusandae, vitae maiores sit accusantium! Nostrum, aliquam ad quisquam corrupti itaque, eveniet quo velit!</p>
-            <p>Explicabo, culpa, sit! Quod eum, aperiam odit reiciendis repellendus vitae, quam laboriosam possimus fugiat rerum facilis dolor, molestiae magnam culpa numquam praesentium soluta molestias quaerat officiis, fuga aliquam! Quidem, possimus.</p>
-            <p>Quo nihil in doloremque, cupiditate quam sunt inventore, nesciunt asperiores provident deleniti, explicabo fugit maiores accusantium omnis sed amet? Quos optio sit delectus architecto vero accusantium tenetur, ducimus, nobis ad.</p>
-            <p>Asperiores, commodi provident eum sed repellat ut recusandae optio est dicta praesentium facere culpa unde obcaecati eveniet laborum amet nulla distinctio consectetur, iste, ipsum, soluta. Explicabo, repudiandae nemo ab quasi.</p>
-
-
         </div>
 
     </div>
