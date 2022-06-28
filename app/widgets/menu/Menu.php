@@ -49,6 +49,7 @@ class Menu
                         JOIN category_description cd
                         ON c.id = cd.category_id
                         WHERE cd.language_id = ?", [$this->language['id']]);
+            $this->data = App::$app->getProperty("categories_{$this->language['code']}");
             $this->tree = $this->getTree();
             $this->menuHtml = $this->getMenuHtml($this->tree);
             if($this->cache){
