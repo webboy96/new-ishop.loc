@@ -1826,3 +1826,59 @@
 ===========
 [2022-06-28 10:14:30] Текст ошибки: syntax error, unexpected token "<" | Файл: C:\OpenServer\domains\new-ishop.loc\app\views\parts\footer.php | Строка: 10
 ===========
+[2022-06-29 10:34:56] Текст ошибки: Class "app\models\R" not found | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Category.php | Строка: 11
+===========
+[2022-06-29 10:35:04] Текст ошибки: Class "app\models\R" not found | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Category.php | Строка: 11
+===========
+[2022-06-29 10:36:51] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.category_decription' doesn't exist | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+===========
+[2022-06-29 10:36:56] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.category_decription' doesn't exist | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+===========
+[2022-06-29 10:36:56] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-29 10:38:30] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.category_decription' doesn't exist | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+===========
+[2022-06-29 10:39:39] Текст ошибки: app\models\Category::get_category(): Return value must be of type array, string returned | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Category.php | Строка: 14
+===========
+[2022-06-29 10:47:22] Текст ошибки: A function with return type must return a value | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Category.php | Строка: 18
+===========
+[2022-06-29 10:47:38] Текст ошибки: A function with return type must return a value | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Category.php | Строка: 18
+===========
+[2022-06-29 10:47:38] Текст ошибки: require(C:\OpenServer\domains\new-ishop.loc/publicerrors/production.php): Failed to open stream: No such file or directory | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\ErrorHandler.php | Строка: 78
+===========
+[2022-06-29 10:47:43] Текст ошибки: A function with return type must return a value | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Category.php | Строка: 18
+===========
+[2022-06-29 10:47:43] Текст ошибки: require(C:\OpenServer\domains\new-ishop.loc/publicerrors/production.php): Failed to open stream: No such file or directory | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\ErrorHandler.php | Строка: 78
+===========
+[2022-06-29 10:49:00] Текст ошибки: A function with return type must return a value | Файл: C:\OpenServer\domains\new-ishop.loc\app\models\Category.php | Строка: 19
+===========
+[2022-06-29 10:49:00] Текст ошибки: require(C:\OpenServer\domains\new-ishop.loc/publicerrors/production.php): Failed to open stream: No such file or directory | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\ErrorHandler.php | Строка: 78
+===========
+[2022-06-29 12:33:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-29 12:39:03] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-29 13:00:42] Текст ошибки: Call to undefined method wfm\Registry::reset() | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\AppController.php | Строка: 29
+===========
+[2022-06-29 13:00:46] Текст ошибки: Call to undefined method wfm\Registry::reset() | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\AppController.php | Строка: 29
+===========
+[2022-06-29 13:00:50] Текст ошибки: Call to undefined method wfm\Registry::reset() | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\AppController.php | Строка: 29
+===========
+[2022-06-29 13:00:50] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-29 13:01:13] Текст ошибки: Call to undefined method wfm\Registry::reset() | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\AppController.php | Строка: 29
+===========
+[2022-06-29 13:01:59] Текст ошибки: Call to undefined method wfm\Registry::reset() | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\AppController.php | Строка: 29
+===========
+[2022-06-29 13:02:03] Текст ошибки: Call to undefined method wfm\Registry::reset() | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\AppController.php | Строка: 29
+===========
+[2022-06-29 13:02:04] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-29 13:02:21] Текст ошибки: Call to undefined method wfm\Registry::reset() | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\AppController.php | Строка: 29
+===========
+[2022-06-29 13:03:59] Текст ошибки: Call to undefined method wfm\Registry::reset() | Файл: C:\OpenServer\domains\new-ishop.loc\app\controllers\AppController.php | Строка: 29
+===========
+[2022-06-29 13:05:43] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
+[2022-06-29 13:05:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 72
+===========
